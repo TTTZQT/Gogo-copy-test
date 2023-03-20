@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
-
+dasdasdasdas
 ## What is GoGoCode?
 
 [中文 README](README-cn.md)
@@ -40,7 +40,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 // generate ast to string
 const outCode = script.generate();
 ```
-废弃
+12332112331123dasfa
 ### Out
 
 ```javascript
