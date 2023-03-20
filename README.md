@@ -40,7 +40,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 // generate ast to string
 const outCode = script.generate();
 ```
-
+废弃
 ### Out
 
 ```javascript
