@@ -26,7 +26,7 @@ const b = 2;
 ```
 
 ### Transform With GoGoCode
-
+23112321
 ```javascript
 const $ = require('gogocode');
 const script = $(source);
@@ -40,7 +40,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 // generate ast to string
 const outCode = script.generate();
 ```
-
+废弃
 ### Out
 
 ```javascript
